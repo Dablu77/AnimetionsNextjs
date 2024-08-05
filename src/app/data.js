@@ -9,7 +9,7 @@ Websites:
 
 :root {
   --background: 27 27 27;
-  --foreground: 225 225 225;
+  --foreground: 225 225 225;~
   --muted: 115 115 115;
   --accent: 254 254 91; #FEFE5B
 }
